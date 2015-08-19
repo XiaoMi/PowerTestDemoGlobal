@@ -1,5 +1,5 @@
 # PowerTestDemoGlobal
-The demo script of global power test. 
+The demo script of Power Consumption Test. 
 
 Read Me
 
